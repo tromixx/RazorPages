@@ -3,8 +3,8 @@ With .Net pushing things to the edge, Razor pages became a popular design to mak
 
 Simple Topics:
 Basic Razor syntax.
-Data binding in Razor Pages.
-Simple form handling.
+Data binding in Razor Pages: Data binding in Razor Pages allows you to bind data to properties in your PageModel and access it directly in your Razor Page.
+Simple form handling: Handling forms is straightforward in Razor Pages. The form data is bound to properties in the PageModel, which can then be processed.
 
 Medium Topics:
 Dependency injection.
